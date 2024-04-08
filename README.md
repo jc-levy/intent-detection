@@ -1,6 +1,7 @@
 The python module requires an environment with pandas, scikit-learn and sentence-transformers installed
 
 A possible environment is provided as requirements.txt
+
 To install it, run:
 ```
 pip install -r requirements.txt
